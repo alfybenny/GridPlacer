@@ -19,6 +19,10 @@ git clone https://github.com/alfybenny/GridPlacer.git
 - Click on the `Simple Object Operator' under `Layout Demo` in the `Scene Properties` section (Sorry for the generic names, will replace with some humane names later)
 - A 3D surface of your data should appear in the view
 
+## Capabilities
+- Make a surface mesh from user given data
+- Apply gradient color to the mesh (Just RGB for now)
+
 ## Planned updates
 - Automatic axis support
 - Add color schemes 
